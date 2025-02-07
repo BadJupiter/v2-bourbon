@@ -1,22 +1,16 @@
 [
 	{
-		"start": "2025/02/01",
-		"end": "2025/02/03",
-		"title": "A Past Important Thing!",
-		"body_md": "And some **markdown** description here of whatever the thing is...",
+		"title": "Welcome to the Bourbon Club!",
+		"body_md": "Scan you bar receipt each time you try a new bourbon, and we'll keep a list for you of everything you've tried! You can even assign stars to note what you thought about each. There's a Leader Board to give some props to the most adventurous players. But best of all, you'll get invitations to events, specials, and new releases!",
 		"link": {
-			"text": "link to the thing",
+			"text": "More info here",
 			"url": "https://google.com"
 		}
 	},
 	{
 		"start": "2025/02/05",
 		"end": "2025/02/10",
-		"title": "A Current Important Thing!",
-		"body_md": "And some **markdown** description here of whatever the thing is...",
-		"link": {
-			"text": "link to the thing",
-			"url": "https://google.com"
-		}
+		"title": "Friday Thing",
+		"body_md": "This one is only going to show up on Friday. Just a little test of the date filtering stuff."
 	}
 ]

@@ -2,8 +2,7 @@
 	{
 		"start": "2025/02/07",
 		"end": "2025/02/10",
-		"md": "### A Thing!
-		And some **markdown** description here of the thing... [Duck Duck Go](https://duckduckgo.com)",
+		"md": "### A Thing!\nAnd some **markdown** description here of the thing... [Duck Duck Go](https://duckduckgo.com)",
 		"link": {
 			"text": "link to the thing",
 			"url": "https://google.com"
